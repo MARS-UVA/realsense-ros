@@ -1,3 +1,6 @@
+**Repository modified to include occupancy nodes from https://github.com/IntelRealSense/realsense-ros/tree/occupancy-mapping**
+**Latest occupancy version: dd97d1ff5b428b06d268c8eb8516d1e4a8bc24a4**
+
 # ROS Wrapper for Intel&reg; RealSense&trade; Devices
 These are packages for using Intel RealSense cameras (D400 series SR300 camera and T265 Tracking Module) with ROS.
 
